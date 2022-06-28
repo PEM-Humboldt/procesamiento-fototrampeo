@@ -24,7 +24,14 @@ conda env create -f environment.yml
 ## Ejecución
 
 1. Revisión e inconsistencias
+
 2. Análisis
+- Conteo detallado
+- Conteo general
+- Datos generales
+- Historias de detección
+- Números de Hill
+
 3. Darwin Core
 
 
