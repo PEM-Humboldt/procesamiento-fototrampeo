@@ -23,6 +23,10 @@ conda env create -f environment.yml
 
 ## Ejecución
 
+1. Revisión e inconsistencias
+2. Análisis
+3. Darwin Core
+
 
 ## Autores y contribuidores
 * Adriana Restrepo-Isaza
