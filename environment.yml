@@ -1,0 +1,12 @@
+name: procesamiento-fototrampeo
+channels:
+  - conda-forge
+dependencies:
+  - click
+  - geopandas
+  - numpy
+  - openpyxl
+  - pandas
+  - rasterstats
+  - regi0
+  - wiutils=1.1.0
