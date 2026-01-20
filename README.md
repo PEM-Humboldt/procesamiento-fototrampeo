@@ -1,3 +1,7 @@
+> Este repositorio se ha modificado a nuevos estándares, consulte [cam-trap-flow](https://github.com/PEM-Humboldt/cam-trap-flow) y [dashboard-red-otus](https://github.com/PEM-Humboldt/dashboard-red-otus) para funcionalidades similares
+
+---
+
 # procesamiento-fototrampeo
 Este repositorio contiene una serie de scripts para el procesamiento de información de proyectos de Wildlife Insights (WI). El procesamiento consiste principalmente en la creación de nuevas tablas que sirven como insumo para futuros análisis y en la conversión del formato utilizado por WI al estándar Darwin Core (necesario para la publicación de datos a través del SiB Colombia y GBIF).
 
